@@ -11,7 +11,6 @@ import (
 	"github.com/Sudhanshu264/bookings/pkg/handlers"
 	"github.com/Sudhanshu264/bookings/pkg/render"
 	"github.com/alexedwards/scs/v2"
-	
 )
 
 const portNumber = ":6060"
